@@ -6,3 +6,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+<ul>
+<li>composer install</li>
+<li>fill .env DB_DATABASE=
+              DB_USERNAME=
+              DB_PASSWORD= </li>
+<li>php artisan migrate</li>
+<li>php artisan db:seed</li>
+<li>php artisan serve</li>
+</ul>
